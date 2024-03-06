@@ -16,7 +16,7 @@ public static void main(String a[])
 public void addition()
 {
 	c=a*b;
-	System.out.println("Sum:"+c);
+	System.out.println("Changed addition"+c);
 }
 public void sub()
 {
