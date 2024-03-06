@@ -7,15 +7,15 @@ int c;
 public static void main(String a[])
 {
 	ArithOp o1=new ArithOp();
-	o1.add();
+	o1.addition();
       o1.sub();
       o1.mul();
       o1.mod();
 	ArithOp.message();
 }
-public void add()
+public void addition()
 {
-	c=a+b;
+	c=a*b;
 	System.out.println("Sum:"+c);
 }
 public void sub()
