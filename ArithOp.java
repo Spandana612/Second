@@ -35,7 +35,7 @@ public void mod()
 }
 public static void message()
 {
-System.out.println("Welcome to Java");
+System.out.println("Welcome to Java326456");
 }
  
 }
